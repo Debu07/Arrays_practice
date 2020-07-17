@@ -10,7 +10,6 @@
 // 2) Shift all elements one position ahead.
 // 3) Replace first element of array with x.
 // this can be solve by reversal algorithm also
-
 #include <iostream>
 using namespace std;
 
